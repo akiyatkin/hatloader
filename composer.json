@@ -1,0 +1,6 @@
+{
+	"name":"akiyatkin/hatloader",
+	"require":{
+		"akiyatkin/load":"~1"
+	}
+}
